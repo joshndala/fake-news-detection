@@ -3,6 +3,8 @@
 ## Overview
 This repository contains my finished research project on detecting fake news utilizing deep learning models such as LSTM, RNN, and BERT transformers. This research attempted to tackle the spread of misinformation on social media sites such as X (previously Twitter) by utilizing advanced natural language processing (NLP) techniques.
 
+**NOTE**: The final paper can be found [here](Deep Learning on Fake News Detection Final Paper.pdf).
+
 ### Key Achievements:
 - **High Accuracy on News Datasets:** Achieved 90% accuracy with the RNN, 99% with LSTM, and 98% with BERT on structured news datasets.
 - **Challenges with Social Media Content:** Identified the difficulty in adapting models to social media content, with approximately 50% accuracy on tweet datasets.
